@@ -1,2 +1,2 @@
-# practice
-My first practice repositor
+# practice-repo
+GitHub学習のためのリポジトリです。
